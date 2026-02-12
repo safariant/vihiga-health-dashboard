@@ -1,0 +1,13 @@
+node_modules/
+package-lock.json
+yarn.lock
+dist/
+dist-ssr/
+.env
+.env.local
+.env.*.local
+.vscode/
+.idea/
+*.log
+.DS_Store
+.netlify/
